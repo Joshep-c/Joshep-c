@@ -14,11 +14,10 @@
   />
 </div>
 
----
-
 ## <picture>
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"/>
-</picture> About Me
+</picture> 
+## About Me
 
 <img
   align="right"
@@ -33,7 +32,6 @@ I am seeking opportunities where I can apply my knowledge and grow professionall
 
 I am passionate about teamwork, enjoy active collaboration, sharing ideas, and committing to common goals.  
 Additionally, I enjoy both teaching and learning, maintaining a proactive attitude and a strong orientation toward continuous learning.
-
 
 ---
 
