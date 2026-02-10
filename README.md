@@ -22,20 +22,24 @@
     width="50px"
   />
 </picture>
-About Me
+## About Me
 
-<img
-  align="right"
-  alt="Github"
-  src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"
-  width="500"
-/>
+<div align="right">
+  <img
+    src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"
+    width="380"
+    alt="coding"
+  />
+</div>
 
 I am a Systems Engineering student with a strong interest in software development.  
 I am seeking opportunities where I can apply my knowledge and grow professionally, contributing creativity and innovative solutions.
 
 I am passionate about teamwork, enjoy active collaboration, sharing ideas, and committing to common goals.  
 Additionally, I enjoy both teaching and learning, maintaining a proactive attitude and a strong orientation toward continuous learning.
+
+<br clear="right"/>
+
 
 ---
 
