@@ -17,27 +17,22 @@
 ---
 
 ## <picture>
-  <img
-    src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true"
-    width="45px"
-  />
-</picture>
-About Me
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"/>
+</picture> About Me
 
-<div align="center">
-  <img
-    src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"
-    width="420"
-    alt="coding"
-  />
-</div>
+<img
+  align="right"
+  width="260"
+  height="200"
+  alt="Github"
+  src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"
+/>
 
-<p>
-I am a Systems Engineering student with a strong interest in software development.<br><br>
-I am seeking opportunities where I can apply my knowledge and grow professionally, contributing creativity and innovative solutions.<br><br>
-I am passionate about teamwork, enjoy active collaboration, sharing ideas, and committing to common goals.<br><br>
+I am a Systems Engineering student with a strong interest in software development.  
+I am seeking opportunities where I can apply my knowledge and grow professionally, contributing creativity and innovative solutions.
+
+I am passionate about teamwork, enjoy active collaboration, sharing ideas, and committing to common goals.  
 Additionally, I enjoy both teaching and learning, maintaining a proactive attitude and a strong orientation toward continuous learning.
-</p>
 
 
 ---
